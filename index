@@ -1,0 +1,137 @@
+# John Gabriel Manayon
+
+**Fresh BSIT Graduate • Aspiring Software Engineer**
+
+---
+
+Hi, I'm John. I recently completed my Bachelor of Science in Information Technology and I'm now focused on building a career as a software engineer. I enjoy turning ideas into working code—whether that's a C++ console tool, a C# desktop application, a Java OOP project, or a responsive web app. I'm early in my journey, but I'm consistent, curious, and committed to writing clean, maintainable software.
+
+---
+
+## About Me
+
+- **Education:** Bachelor of Science in Information Technology (BSIT)
+- **Focus:** Entry-level / Junior Software Engineer roles
+- **Values:** Perseverance, continuous learning
+- **Approach:** Development is a continuous cycle of learning, building, making mistakes, improving, and trying again.
+
+---
+
+## Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Platforms
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 1. Binary Calculator (C++)
+**Console-based calculator application** demonstrating number system conversions and arithmetic operations.
+- **Tech:** `C++`
+- **Category:** Systems / Algorithms
+- **Key Skills:** Number systems, bitwise operations, console I/O, menu-driven design
+- **Repository:** [ADD LINK] | **Demo:** [ADD LINK]
+
+### 2. Enrollment System (C# Windows Forms)
+**Desktop application** for academic enrollment management built with Visual Studio.
+- **Tech:** `C#` `Windows Forms` `Visual Studio`
+- **Category:** Desktop Application
+- **Key Skills:** Event-driven programming, form navigation, data management, admin/student/faculty modules, attendance tracking, grade entry
+- **Repository:** [ADD LINK] | **Demo:** [ADD LINK]
+
+### 3. E-Console Store (Java)
+**Object-oriented console application** showcasing core OOP principles in a retail context.
+- **Tech:** `Java` `OOP`
+- **Category:** Academic / Console App
+- **Key Skills:** Encapsulation, inheritance, polymorphism, abstraction, class design
+- **Documentation:** [Facebook Post](https://www.facebook.com/share/v/19dRC1bwLp/) | **Repository:** [ADD LINK] | **Demo:** [ADD LINK]
+
+### 4. Digital Finance Buddy (HTML, CSS, JavaScript)
+**Front-end budget and expense tracker** — set budgets, add/edit/delete expenses, view totals and remaining balance with input validation and responsive layout.
+- **Tech:** `HTML` `CSS` `JavaScript`
+- **Category:** Web Application (Front-end only)
+- **Key Skills:** DOM manipulation, form validation, localStorage, responsive design, state management
+- **Repository:** [ADD LINK] | **Demo:** [ADD LINK]
+
+### 5. LookIT (Figma Prototype)
+**Mobile home-security app concept** — integrates with existing camera/speaker hardware, voice interaction, and AI-assisted visitor/delivery detection.
+- **Tech:** `Figma` `UI/UX` `Prototyping`
+- **Category:** Product Design / Prototype
+- **Key Skills:** User flows, interaction design, prototyping, mobile-first design, voice UI concepts
+- **Figma:** [View Prototype](https://www.figma.com/design/4FINPzTXyR00MqE3QrRefW/LookIT-Mobile-Prototype?node-id=0-1&t=USeMAP9YYHW7QzOb-1) | **Repository:** N/A (Design only)
+
+---
+
+## Development Projects
+
+*Additional coursework and practice projects demonstrating fundamentals across languages.*
+
+| Project | Language | Type | Status |
+|---------|----------|------|--------|
+| [Project Name] | C++ | Console | [NEEDS VERIFICATION] |
+| [Project Name] | C# | Desktop | [NEEDS VERIFICATION] |
+| [Project Name] | Java | Console/OOP | [NEEDS VERIFICATION] |
+| [Project Name] | PHP | Web | [NEEDS VERIFICATION] |
+
+---
+
+## Web Development
+
+| Project | Stack | Description | Link |
+|---------|-------|-------------|------|
+| Digital Finance Buddy | HTML, CSS, JS | Budget/expense tracker (front-end) | [ADD LINK] |
+| [Project Name] | [Stack] | [Description] | [ADD LINK] |
+
+---
+
+## UI/UX Design
+
+| Project | Tool | Description | Link |
+|---------|------|-------------|------|
+| LookIT | Figma | Mobile home-security prototype | [View on Figma](https://www.figma.com/design/4FINPzTXyR00MqE3QrRefW/LookIT-Mobile-Prototype?node-id=0-1&t=USeMAP9YYHW7QzOb-1) |
+| [Project Name] | [Tool] | [Description] | [ADD LINK] |
+
+---
+
+## Currently Learning
+
+- Programming fundamentals & problem-solving
+- C++, C#, Java, PHP — deeper language mechanics
+- Web development: modern HTML/CSS/JS, responsive design
+- Software engineering concepts: clean code, design patterns, testing
+- Git/GitHub workflow: branching, PRs, conventional commits
+- Building practical, portfolio-quality applications
+- Documentation and maintainable code practices
+
+---
+
+## Developer Mindset
+
+Development is a continuous cycle of learning, building, making mistakes, improving, and trying again. I don't expect to get things right the first time — I expect to understand *why* they didn't work and make them better. Every project here represents that cycle.
+
+---
+
+## Contact & Links
+
+- **GitHub:** [github.com/johnmanayon22-alt](https://github.com/johnmanayon22-alt)
+- **Email:** johnmanayon22@gmail.com
+- **LinkedIn:** [ADD LATER]
+- **Portfolio Website:** [ADD LATER]
+
+---
+
+*Last updated: October 2025*
